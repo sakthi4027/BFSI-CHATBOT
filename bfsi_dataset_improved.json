@@ -1,0 +1,517 @@
+[
+    {
+        "instruction": "What is loan eligibility?",
+        "input": "",
+        "output": "Loan eligibility refers to the criteria that determine whether you qualify for a loan. Key factors include: monthly income (minimum ₹25,000 for personal loans), credit score (preferably 650+), age (21-60 years), employment stability (minimum 2 years for salaried, 3 years for self-employed), and debt-to-income ratio (should not exceed 50%). All criteria are subject to credit assessment and regulatory compliance."
+    },
+    {
+        "instruction": "How can I check my loan eligibility?",
+        "input": "",
+        "output": "You can check your loan eligibility by logging into your account and navigating to the 'Loan Eligibility' section. You'll need to provide: PAN card, Aadhaar details, employment information, and monthly income details. The system performs a soft credit check that does not impact your credit score. Results are typically available within 2-3 minutes."
+    },
+    {
+        "instruction": "What factors affect my loan eligibility?",
+        "input": "",
+        "output": "Your loan eligibility is determined by multiple factors: (1) Credit score - Higher scores (750+) improve eligibility and interest rates, (2) Monthly income - Minimum ₹25,000 for salaried employees, (3) Employment stability - At least 2 years in current job, (4) Age - Must be between 21-60 years, (5) Existing liabilities - Debt-to-income ratio should be below 50%, (6) Repayment history - No defaults or late payments in the last 12 months, and (7) Residence stability - Current address proof required."
+    },
+    {
+        "instruction": "Is my credit score important for loan approval?",
+        "input": "",
+        "output": "Yes, your credit score is one of the most critical factors for loan approval. A score of 750 or above significantly increases your approval chances and qualifies you for interest rates as low as 10.5% p.a. Scores between 650-749 may result in approval with higher interest rates (12-18% p.a.). Scores below 650 may lead to rejection or require a co-applicant or guarantor. We recommend checking your CIBIL score before applying."
+    },
+    {
+        "instruction": "What is the minimum salary required for a personal loan?",
+        "input": "",
+        "output": "For salaried employees, the minimum monthly income requirement is ₹25,000 in metro cities and ₹20,000 in non-metro cities. For self-employed individuals, minimum annual income of ₹3,00,000 with consistent income proof for the last 2 financial years is required. These figures may vary based on the loan amount requested and your overall financial profile."
+    },
+    {
+        "instruction": "Can self-employed individuals apply for a loan?",
+        "input": "",
+        "output": "Yes, self-employed individuals can apply for loans. Required documents include: ITR for the last 2 years, business vintage proof (minimum 3 years), bank statements for the last 6 months, GST registration (if applicable), and proof of business ownership. Minimum annual income should be ₹3,00,000. Interest rates for self-employed applicants typically range from 11.5% to 22% p.a., depending on business stability and credit score."
+    },
+    {
+        "instruction": "Can students apply for loans?",
+        "input": "",
+        "output": "Students can apply for education loans specifically designed for higher studies. For personal loans, students typically need a co-applicant (parent or guardian) with stable income. Education loan eligibility: Age 18-35 years, admission to recognized institution, and co-borrower with income proof. Loan amounts range from ₹50,000 to ₹50,00,000 depending on the course and institution. Interest rates start from 8.5% p.a. for premier institutions."
+    },
+    {
+        "instruction": "Does age affect my loan eligibility?",
+        "input": "",
+        "output": "Yes, age is a crucial eligibility criterion. For most loan products, the minimum age is 21 years and maximum age is 60 years at loan maturity. For example, if you're 55 years old, the maximum loan tenure would be 5 years. Senior citizens may have different criteria for certain products. Some specialized products for professionals allow extension up to 65 years based on profile assessment."
+    },
+    {
+        "instruction": "Can I get a loan with a low credit score?",
+        "input": "",
+        "output": "Loan approval with a low credit score (below 650) is challenging but not impossible. Options include: (1) Applying with a co-applicant having good credit score, (2) Providing additional collateral or security, (3) Accepting higher interest rates (18-24% p.a.), (4) Opting for smaller loan amounts, or (5) Improving your credit score over 3-6 months before reapplying. We recommend checking your credit report for errors and disputing any inaccuracies before applying."
+    },
+    {
+        "instruction": "How can I improve my loan eligibility?",
+        "input": "",
+        "output": "To improve your loan eligibility: (1) Maintain a credit score above 750 by paying all EMIs and credit card bills on time, (2) Reduce existing debt - aim for debt-to-income ratio below 40%, (3) Increase your income through salary increments or additional income sources, (4) Maintain stable employment for at least 2 years, (5) Avoid multiple loan applications within short periods, (6) Keep bank account statements healthy with regular credits, and (7) Clear any pending defaults or settlements. Improvement typically takes 3-6 months of consistent financial discipline."
+    },
+    {
+        "instruction": "Is employment verification required for a loan?",
+        "input": "",
+        "output": "Yes, stable employment or income source is mandatory. For salaried employees, we require: employment certificate or appointment letter, last 3 months' salary slips, and 6 months' bank statements showing salary credits. Minimum employment tenure: 2 years total experience with 1 year in current organization. For self-employed, we need: business proof for minimum 3 years, ITR for last 2 years, and 6 months' bank statements showing regular business transactions."
+    },
+    {
+        "instruction": "Can I apply for a loan without income proof?",
+        "input": "",
+        "output": "Income proof is mandatory for all loan applications to verify repayment capacity. However, for specific scenarios we accept alternative documentation: (1) For salaried: Form 16, salary slips, or bank statements with salary credits, (2) For self-employed: ITR, GST returns, or CA-certified financials, (3) For informal income: bank statement analysis showing consistent deposits over 6 months. No-documentation loans are not available as they violate regulatory compliance and responsible lending practices."
+    },
+    {
+        "instruction": "Can existing loans affect my eligibility?",
+        "input": "",
+        "output": "Yes, existing loans significantly impact eligibility through the debt-to-income ratio calculation. If your current EMI obligations (including the new loan) exceed 50% of your monthly income, your application may be rejected or approved for a lower amount. For example, if your monthly income is ₹50,000 and existing EMIs are ₹20,000, you can qualify for additional EMI of up to ₹5,000 only. Multiple active loans also indicate higher credit risk."
+    },
+    {
+        "instruction": "Is PAN card mandatory for loan application?",
+        "input": "",
+        "output": "Yes, PAN card is mandatory for all loan applications as per Income Tax regulations and KYC (Know Your Customer) norms. For loans above ₹50,000, PAN verification is compulsory. Additional KYC documents required: Aadhaar card for identity and address proof, recent passport-size photographs, and bank account statements. All documents must be valid and match the information provided in the application form."
+    },
+    {
+        "instruction": "Can I get a loan without a bank account?",
+        "input": "",
+        "output": "No, a valid operational bank account is mandatory for loan processing. The bank account is required for: (1) Loan disbursement - funds are transferred to your account, (2) EMI auto-debit setup, (3) Income verification through salary/business credits, and (4) Regulatory compliance. The account should be active for at least 6 months with regular transactions. Savings or current accounts are acceptable."
+    },
+    {
+        "instruction": "How long does the eligibility check take?",
+        "input": "",
+        "output": "Basic eligibility check is instant (1-2 minutes) and provides an indicative loan amount based on your input. Detailed eligibility assessment with credit bureau check takes 15-30 minutes. Final eligibility confirmation after document verification takes 2-4 business hours. The basic check does not impact your credit score, while detailed assessment involves a soft inquiry that has minimal impact."
+    },
+    {
+        "instruction": "Can I check eligibility without affecting my credit score?",
+        "input": "",
+        "output": "Yes, our initial eligibility checker performs a soft inquiry that does not impact your credit score. You can check multiple times without any negative effect. However, once you proceed with a formal loan application, a hard inquiry will be made which may cause a temporary dip of 5-10 points in your credit score. We recommend checking eligibility first before formally applying."
+    },
+    {
+        "instruction": "Does my location affect loan eligibility?",
+        "input": "",
+        "output": "Yes, location affects eligibility in several ways: (1) Service availability - We operate in 250+ cities; loans may not be available in all locations, (2) Income requirements - Metro cities require minimum ₹25,000/month, while tier-2/tier-3 cities require ₹20,000/month, (3) Property valuation - For secured loans, property values vary by location, and (4) Regional policies - Some states have specific lending regulations. You can check service availability by entering your PIN code in the eligibility form."
+    },
+    {
+        "instruction": "Can I increase my eligible loan amount?",
+        "input": "",
+        "output": "Yes, you can increase eligibility by: (1) Adding a co-applicant with stable income, which can increase the loan amount by 50-75%, (2) Improving your credit score above 750, (3) Reducing existing liabilities before applying, (4) Providing additional income proof (rental, investment income), (5) Opting for longer tenure to reduce EMI burden, or (6) Waiting for salary increment and reapplying. Generally, eligibility reassessment takes 3-6 months after profile improvement."
+    },
+    {
+        "instruction": "Is a guarantor required for loan approval?",
+        "input": "",
+        "output": "Guarantor requirements depend on your profile: (1) Not required if credit score is 700+ and income meets criteria, (2) May be required if credit score is between 650-700 or income is borderline, (3) Mandatory if credit score is below 650 or employment is less than 2 years, (4) Always required for loans above ₹10,00,000 for certain risk profiles. The guarantor must have good credit score (700+), stable income, and no existing guarantee obligations."
+    },
+    {
+        "instruction": "What documents are required for eligibility verification?",
+        "input": "",
+        "output": "Required documents for eligibility verification: (1) Identity proof: PAN card (mandatory), Aadhaar card, (2) Address proof: Aadhaar, utility bills, or rental agreement (not older than 3 months), (3) Income proof: Last 3 months' salary slips, 6 months' bank statements, Form 16 (for salaried); ITR for 2 years, bank statements for 6 months, GST returns (for self-employed), (4) Employment proof: Appointment letter, employment certificate, (5) Photographs: 2 recent passport-size photos. All documents should be clear, valid, and information should match across documents."
+    },
+    {
+        "instruction": "Can I apply for a loan with a part-time job?",
+        "input": "",
+        "output": "Part-time employment eligibility depends on income stability and proof: (1) If you have a formal part-time contract with consistent monthly income of ₹25,000+ shown in bank statements for 6 months, you may qualify, (2) Multiple part-time sources can be combined if properly documented, (3) Interest rates may be higher (14-20% p.a.) due to perceived income instability, (4) You may need a co-applicant with full-time employment. Freelancers and gig workers should apply under self-employed category with ITR and bank statement proof."
+    },
+    {
+        "instruction": "How many times can I check my eligibility?",
+        "input": "",
+        "output": "You can check your basic eligibility unlimited times using our eligibility calculator without affecting your credit score. This soft check provides indicative loan amounts. However, formal eligibility checks that pull your credit report should be limited to 2-3 times within 6 months, as multiple hard inquiries (more than 4-5 in 6 months) can negatively impact your credit score by 10-30 points and signal credit-hungry behavior to lenders."
+    },
+    {
+        "instruction": "Is eligibility criteria the same for all loan types?",
+        "input": "",
+        "output": "No, eligibility varies by loan type: (1) Personal Loan: Credit score 700+, income ₹25,000+, age 21-60, (2) Home Loan: Credit score 750+, income ₹30,000+, age 21-65, stable employment 3+ years, (3) Education Loan: Age 18-35, admission proof, co-borrower required, (4) Business Loan: Business vintage 3+ years, annual turnover ₹10,00,000+, ITR for 2 years, (5) Vehicle Loan: Credit score 650+, down payment 15-20%. Each product has specific criteria based on risk assessment and regulatory guidelines."
+    },
+    {
+        "instruction": "Can I get a loan without CIBIL score or credit history?",
+        "input": "",
+        "output": "Limited options exist for applicants without credit history (credit score not available): (1) Small ticket loans up to ₹50,000 with higher interest rates (18-24% p.a.) and stricter documentation, (2) Secured loans with collateral (gold loan, FD-backed loan), (3) Loans with guarantor or co-applicant having good credit score, (4) Credit builder products specifically designed for first-time borrowers. We recommend building credit history through a credit card or small EMI purchase before applying for larger loans."
+    },
+    {
+        "instruction": "Does having a salary account with your bank help?",
+        "input": "",
+        "output": "Yes, having a salary account with us provides several advantages: (1) Faster processing - 30% quicker approval due to existing relationship, (2) Better interest rates - 0.25-0.50% discount on published rates, (3) Pre-approved offers based on salary credits and account conduct, (4) Higher loan amounts - up to 20% more than standard eligibility, (5) Simplified documentation - existing KYC can be used, and (6) Auto-debit convenience for EMI. Account should be active for minimum 6 months with regular salary credits."
+    },
+    {
+        "instruction": "Can I apply for a joint loan?",
+        "input": "",
+        "output": "Yes, joint loan applications are encouraged and offer benefits: (1) Higher loan amount - combined income increases eligibility by 50-75%, (2) Better interest rates if any applicant has excellent credit score (750+), (3) Tax benefits - both applicants can claim deductions for certain loan types, (4) Shared liability - both are equally responsible for repayment. Acceptable co-applicants: spouse, parents, siblings, or business partners. Both applicants must meet minimum eligibility criteria and provide complete documentation."
+    },
+    {
+        "instruction": "How is my loan eligibility calculated?",
+        "input": "",
+        "output": "Loan eligibility is calculated using the FOIR (Fixed Obligation to Income Ratio) method: Eligible EMI = (Monthly Income × 50%) - Existing EMI obligations. Then loan amount is calculated as: Loan Amount = Eligible EMI × Tenure × Discount Factor. For example, if your monthly income is ₹50,000 with ₹10,000 existing EMI, eligible EMI = ₹15,000. For 36-month tenure at 12% interest, maximum loan ≈ ₹4,50,000. This is adjusted based on credit score, age, and employment stability."
+    },
+    {
+        "instruction": "Can I reapply if my loan was rejected?",
+        "input": "",
+        "output": "Yes, you can reapply after addressing rejection reasons. Recommended waiting period: (1) 3 months if rejected due to low credit score - use time to improve score, (2) 6 months if rejected due to high debt burden - pay down existing loans, (3) Immediate reapplication possible if rejection was due to incomplete documentation. Before reapplying: (1) Check rejection reason in communication, (2) Obtain credit report and correct errors, (3) Reduce debt-to-income ratio below 40%, (4) Consider adding co-applicant, and (5) Try smaller loan amount. Multiple rejections negatively impact credit score."
+    },
+    {
+        "instruction": "Where can I view my eligibility result?",
+        "input": "",
+        "output": "Your eligibility result is available in multiple locations: (1) Immediately after assessment on the eligibility checker page - screenshot this for reference, (2) Loan dashboard under 'My Applications' section within 2 hours of assessment, (3) Email confirmation sent to your registered email ID, (4) SMS notification with indicative loan amount, and (5) Mobile app under 'Loan Offers' section. The result remains valid for 30 days from assessment date. After 30 days, reassessment may be required if market conditions or policies change."
+    },
+    {
+        "instruction": "What is EMI?",
+        "input": "",
+        "output": "EMI stands for Equated Monthly Installment. It is a fixed payment amount made by a borrower to the lender on a specified date each month. EMI consists of two components: (1) Principal repayment - portion of the loan amount, and (2) Interest charges - cost of borrowing. In early months, interest component is higher, while in later months, principal component increases. EMI is calculated using the formula: EMI = [P × R × (1+R)^N] / [(1+R)^N-1], where P = principal, R = monthly interest rate (annual rate/12), N = loan tenure in months."
+    },
+    {
+        "instruction": "How is my EMI calculated?",
+        "input": "Loan amount: ₹5,00,000, Interest rate: 12% per annum, Tenure: 36 months",
+        "output": "Based on your loan details, your EMI calculation is: Principal (P) = ₹5,00,000, Monthly interest rate (R) = 12%/12 = 1% = 0.01, Tenure (N) = 36 months. Using EMI formula: EMI = [5,00,000 × 0.01 × (1.01)^36] / [(1.01)^36 - 1] = ₹16,607 approximately. Total amount payable = ₹16,607 × 36 = ₹5,97,852. Total interest = ₹5,97,852 - ₹5,00,000 = ₹97,852. This calculation uses the reducing balance method where interest is charged on the outstanding principal amount."
+    },
+    {
+        "instruction": "Where can I check my EMI details?",
+        "input": "",
+        "output": "Your EMI details are available at: (1) Loan dashboard - login to your account and navigate to 'Active Loans' section showing next EMI date, amount, and outstanding principal, (2) EMI schedule download - detailed month-wise breakup of principal and interest components available in PDF format, (3) Mobile app - 'My Loans' section with payment history and upcoming EMIs, (4) Email statements - monthly statements sent 5 days before EMI due date, and (5) SMS alerts - reminders sent 3 days and 1 day before due date. You can also call customer care at 1800-XXX-XXXX for EMI details."
+    },
+    {
+        "instruction": "Can I change my EMI due date?",
+        "input": "",
+        "output": "EMI date change is possible subject to approval. Process: (1) Submit written request through customer support portal or visit branch, (2) Specify desired date (must be between 1st and 28th of the month), (3) Provide reason for change (salary date change, cash flow management), (4) Request processing takes 7-10 business days, (5) One-time change fee of ₹500 + GST applies. Change is allowed once during loan tenure and takes effect from next billing cycle. Pro-rated interest may be charged for partial month during transition."
+    },
+    {
+        "instruction": "What happens if I miss an EMI payment?",
+        "input": "",
+        "output": "Missing an EMI has serious consequences: (1) Late payment penalty: ₹500-1000 or 2% of EMI amount (whichever is higher) charged immediately, (2) Additional interest on overdue amount at 2% p.a. above loan interest rate, (3) Credit score impact: 50-100 points reduction if payment delayed beyond 30 days, (4) Recovery calls from collection team starting from day 1 of default, (5) Legal notice after 90 days of continuous default, and (6) Loan recall and asset seizure for secured loans. If facing temporary difficulty, contact us immediately to discuss restructuring options before missing payment."
+    },
+    {
+        "instruction": "How can I pay my EMI online?",
+        "input": "",
+        "output": "Multiple online EMI payment options available: (1) Auto-debit (recommended): Set up mandate through net banking - automatic deduction on due date with zero transaction charges, (2) Net Banking: Login to your bank account, select 'Bill Pay' or 'Loan Repayment', enter loan account number - processing time 1-2 hours, (3) UPI: Pay using Google Pay, PhonePe, Paytm using loan account number as VPA - instant credit, (4) Debit/Credit card: Pay through our website or app - 1% convenience fee applies, (5) Payment wallets: Paytm, MobiKwik accepted - instant credit. Always save payment confirmation screenshot and transaction ID."
+    },
+    {
+        "instruction": "Can I pay EMI before the due date?",
+        "input": "",
+        "output": "Yes, you can make advance EMI payments anytime. Benefits: (1) No interest on advance payment period, (2) Helps if traveling or unavailable on due date, (3) Can combine with prepayment for greater interest savings. Note: (1) Advance payments are adjusted against upcoming EMI, not principal reduction, (2) Auto-debit will still attempt on due date unless you notify us, (3) For principal prepayment, use the specific 'Part Payment' option instead, (4) Advance payments do not change your EMI schedule or tenure unless formally restructured. Payment can be made from 1st day of the month for current month's EMI."
+    },
+    {
+        "instruction": "Can I pay multiple EMIs together?",
+        "input": "",
+        "output": "Yes, paying multiple EMIs in advance is allowed with conditions: (1) Maximum 6 EMIs can be paid in advance at once, (2) Advance payment does not reduce interest burden as per loan agreement terms, (3) Auto-debit must be disabled for advance months to avoid double payment, (4) Future EMI schedule remains unchanged unless you opt for tenure reduction, (5) Advance EMI payments do not qualify for principal prepayment discounts. For better interest savings, consider 'Part Payment/Prepayment' option instead, which directly reduces outstanding principal and can lower tenure or EMI amount."
+    },
+    {
+        "instruction": "What is the EMI due date?",
+        "input": "",
+        "output": "EMI due date is the specific date each month when your payment must be credited to avoid penalties. Your due date is set based on: (1) Loan disbursement date - typically same date each month, (2) Your preference - can be aligned with salary date subject to approval, (3) Standard dates available: 1st, 5th, 7th, 10th, 15th, 20th, or 25th of every month. Your current EMI due date is mentioned in: loan agreement document, welcome email, monthly statements, and loan dashboard. Grace period of 3 days after due date may be provided, but penalties typically apply from day 1 of delay."
+    },
+    {
+        "instruction": "Can my EMI amount change during the loan tenure?",
+        "input": "",
+        "output": "EMI amount can change under specific circumstances: (1) Floating interest rate loans: EMI increases/decreases with RBI repo rate changes - reviewed quarterly, (2) Part prepayment: You can choose to reduce EMI amount or tenure after prepayment, (3) Loan restructuring: If approved during financial hardship, EMI may be reduced with extended tenure, (4) Default penalties: Overdue amounts added to principal increase future EMI, (5) Switch from floating to fixed rate: EMI recalculated based on new rate. Fixed-rate loans maintain same EMI throughout tenure unless prepayment occurs. Any change is communicated 30 days in advance via email and SMS."
+    },
+    {
+        "instruction": "How do I enable auto-debit for EMI?",
+        "input": "",
+        "output": "To enable EMI auto-debit: (1) Login to your loan account dashboard, (2) Navigate to 'EMI Payment' > 'Set up Auto-debit', (3) Select your bank account (must have sufficient balance), (4) Choose NACH (National Automated Clearing House) mandate, (5) Specify maximum debit amount (typically 1.5x EMI amount), (6) Complete verification through net banking or Aadhaar OTP, (7) Physical mandate form required for some banks - download, sign, and submit. Processing time: 7-10 business days. Ensure account has balance 2 days before due date. You'll receive confirmation SMS once mandate is active. No charges for setting up auto-debit."
+    },
+    {
+        "instruction": "What should I do if auto-debit fails?",
+        "input": "",
+        "output": "If auto-debit fails, take immediate action: (1) Check account balance and ensure sufficient funds (minimum EMI amount + ₹100 buffer), (2) Make manual payment immediately through net banking, UPI, or card to avoid penalty, (3) Auto-debit will re-attempt after 3 days (one retry allowed), (4) Late payment penalty of ₹500 + interest applies even if re-attempt succeeds, (5) Check mandate status - may need renewal if expired, (6) Verify account is not frozen or has transaction limits. Common failure reasons: insufficient balance (60%), bank technical issues (20%), mandate expired (15%), account closed (5%). Contact support at 1800-XXX-XXXX if issue persists."
+    },
+    {
+        "instruction": "How can I download my EMI schedule?",
+        "input": "",
+        "output": "To download your EMI amortization schedule: (1) Login to your account at www.lendkraft.ai, (2) Go to 'My Loans' > Select your loan account, (3) Click 'Download EMI Schedule' under documents section, (4) Schedule is generated in PDF format showing: month-wise EMI breakdown, principal component, interest component, outstanding balance, and cumulative interest paid. (5) Alternatively, visit mobile app > Loans > Documents > EMI Schedule. You can also request via email to customercare@lendkraft.ai or call 1800-XXX-XXXX. Updated schedule available after any prepayment or restructuring. Keep this document for tax filing and financial planning."
+    },
+    {
+        "instruction": "Is there a penalty for late EMI payment?",
+        "input": "",
+        "output": "Yes, late payment penalties are strictly enforced as per loan agreement: (1) 0-7 days overdue: ₹500 + 18% GST = ₹590, (2) 8-30 days overdue: 2% of EMI amount (minimum ₹1,000) + GST, (3) 31-90 days overdue: 3% of EMI amount + additional interest at +2% p.a. on overdue amount, (4) Beyond 90 days: Legal notice issued, loan classified as NPA (Non-Performing Asset), credit score severely impacted (100+ points drop), potential asset seizure for secured loans. Additional consequences: bounced cheque/ECS charges ₹400-750 per instance, collection agency involvement after 60 days. Contact us before missing payment to explore hardship options."
+    },
+    {
+        "instruction": "Can I skip an EMI for one month?",
+        "input": "",
+        "output": "EMI skipping (moratorium) is generally not allowed for regular loans. However, limited options exist: (1) Financial hardship: Submit request with supporting documents (job loss proof, medical emergency) - approved case-by-case with restructuring, (2) Pre-approved moratorium: Some loan products offer 1-2 EMI skip annually with prior notice, (3) COVID-19 relief: Currently not available (was offered during pandemic), (4) Partial payment: Pay 50% EMI this month and balance next month (subject to approval and penalty). Note: Interest continues to accrue during skipped month, effectively increasing total interest burden. Better option: Contact us for loan restructuring if facing genuine financial difficulty."
+    },
+    {
+        "instruction": "How can I check my outstanding EMI balance?",
+        "input": "",
+        "output": "You can check your outstanding loan balance through: (1) Loan dashboard: Login to account > My Loans > View 'Outstanding Principal', 'Remaining EMIs', and 'Total Outstanding' (principal + interest), (2) Mobile app: Home screen shows quick summary, detailed view in 'Loan Details', (3) Monthly statement: Emailed 5 days before EMI due date showing outstanding amount, (4) SMS: Send 'BAL <Loan Account Number>' to 9876543210 for instant balance, (5) Customer care: Call 1800-XXX-XXXX, or (6) Net banking: If loan from partner bank. Outstanding principal and interest are shown separately. Foreclosure amount (if closing loan) will be different from regular outstanding."
+    },
+    {
+        "instruction": "What is the difference between principal and interest in EMI?",
+        "input": "",
+        "output": "Every EMI has two components: (1) Principal: The actual loan amount you borrowed being repaid each month. This portion directly reduces your outstanding loan balance. In early months, principal component is small (30-40% of EMI), in later months it increases (70-80% of EMI). (2) Interest: The cost of borrowing money, calculated on outstanding principal. In early months, interest forms 60-70% of EMI because outstanding principal is high. As you repay, outstanding reduces, so interest component decreases. Example: ₹10L loan, 12% rate, 5yr - Month 1 EMI ₹22,244: Principal ₹12,244 + Interest ₹10,000; Month 60: Principal ₹22,022 + Interest ₹222."
+    },
+    {
+        "instruction": "Can I get an EMI holiday or moratorium?",
+        "input": "",
+        "output": "EMI holiday (moratorium period) is available only for specific products and circumstances: (1) Home loan construction: 6-12 month moratorium until possession, where you pay only interest (pre-EMI), (2) Education loan: Course duration + 6 months or 1 year after completion (whichever is earlier), (3) Business loan: Some products offer 3-6 month moratorium for business setup, (4) Emergency situations: Job loss, medical emergency - requires documentation and management approval. During moratorium: (a) No principal repayment required, (b) Interest continues to accrue and is added to principal (unless paid), (c) Loan tenure extends, (d) Total interest burden increases. Not available for regular personal loans post-disbursement."
+    },
+    {
+        "instruction": "How do I prepay my loan?",
+        "input": "",
+        "output": "Loan prepayment process: (1) Login to your account > Loans > Select loan > 'Make Prepayment', (2) Enter prepayment amount (minimum ₹1,000, can go up to full outstanding), (3) Choose option: Reduce EMI amount OR Reduce tenure (keeping EMI same), (4) Review revised schedule and savings, (5) Make payment via net banking/UPI/card, (6) Prepayment processes within 24 hours, (7) Updated EMI schedule sent via email in 3-5 days. Prepayment charges: NIL for floating rate loans (RBI guideline), 2-4% for fixed rate loans if prepaid before 12 months. Partial prepayment allowed 3 times per year. Full prepayment (foreclosure) attracts 4-5% charges + outstanding interest till date."
+    },
+    {
+        "instruction": "What is foreclosure and how does it work?",
+        "input": "",
+        "output": "Foreclosure means closing your loan before the scheduled end date by paying the entire outstanding amount. Process: (1) Request foreclosure statement via app/website showing exact amount needed, (2) Amount includes: Outstanding principal + Interest till payment date + Foreclosure charges (2-5% of outstanding) + Any pending charges/penalties, (3) Valid for 7 days from request date, (4) Make payment through provided payment link or NEFT/RTGS, (5) Loan closure within 24-48 hours after payment clearance, (6) NOC (No Objection Certificate) and original documents returned within 15 days. Benefits: Save on future interest, improve credit score. Note: For loans less than 12 months old, prepayment charges are higher (4-5%)."
+    },
+    {
+        "instruction": "How will prepayment affect my EMI?",
+        "input": "Current loan: ₹8,00,000 outstanding, ₹18,500 EMI, 48 months remaining. Prepayment: ₹1,00,000",
+        "output": "After prepaying ₹1,00,000, you have two options: Option 1 - Reduce EMI: New outstanding = ₹7,00,000, Tenure remains 48 months, New EMI ≈ ₹16,200 (reduced by ₹2,300/month), Total savings ≈ ₹1,10,400 in interest. Option 2 - Reduce Tenure: EMI remains ₹18,500, New tenure ≈ 42 months (6 months shorter), Total savings ≈ ₹1,11,000 in interest, Loan closes 6 months earlier. Most customers prefer Option 2 for maximum interest savings. Revised EMI schedule will be sent within 5 business days. You can make additional prepayments anytime (minimum ₹1,000) up to 3 times per year without charges."
+    },
+    {
+        "instruction": "Are there charges for prepaying a loan?",
+        "input": "",
+        "output": "Prepayment charges vary by loan type and tenure completed: (1) Floating rate personal loans: ZERO charges as per RBI guidelines from 2014, (2) Fixed rate personal loans: 2-4% of prepaid amount if prepaying within first 12 months, NIL after 12 months, (3) Home loans: 0.5-2% for fixed rate, NIL for floating rate, (4) Secured loans: Generally 2-3% in first year, reducing to 1% in second year, NIL after 24 months. Partial prepayment: Usually free for amounts up to ₹50,000, nominal charges (₹500-1000) for higher amounts. Full foreclosure: Includes foreclosure charges + processing fee (₹500) + outstanding interest. Always check your loan agreement for specific terms. You can verify applicable charges in loan dashboard before prepaying."
+    },
+    {
+        "instruction": "What is the minimum amount for part payment?",
+        "input": "",
+        "output": "Minimum part payment amount is ₹1,000. Maximum allowed is the total outstanding principal (full foreclosure). Guidelines: (1) Frequency: Up to 3 part payments allowed per financial year, (2) Methods: Net banking, UPI, NEFT/RTGS, debit card (credit card not accepted for principal prepayment), (3) Processing time: Amount adjusted within 24 hours, revised schedule in 3-5 days, (4) No upper limit for part payment unless specified in loan agreement. Recommended strategy: Make larger prepayments (₹25,000+) rather than multiple small payments for maximum interest savings. Even ₹10,000 annual prepayment on ₹5L loan can reduce tenure by 6-8 months and save ₹15,000+ in interest."
+    },
+    {
+        "instruction": "What interest rate will I get on my loan?",
+        "input": "",
+        "output": "Interest rates are personalized based on multiple factors: (1) Credit score: 750+ → 10.5-12% p.a., 700-749 → 12-15% p.a., 650-699 → 15-18% p.a., Below 650 → 18-24% p.a. or rejection, (2) Income level: Higher income gets better rates, (3) Loan amount: Larger loans (₹5L+) get 0.5-1% lower rates, (4) Employment type: Salaried employees with top-tier companies get best rates, (5) Existing relationship: Existing customers get 0.25-0.5% discount, (6) Loan tenure: Longer tenures may have 0.5% higher rates. Current range: 10.5% - 24% p.a. You'll see your personalized rate after eligibility check. Rates are subject to change as per market conditions and RBI guidelines."
+    },
+    {
+        "instruction": "Is the interest rate fixed or floating?",
+        "input": "",
+        "output": "We offer both options with different benefits: (1) Fixed Rate: Interest rate remains constant throughout loan tenure. Benefits: EMI never changes, easier budgeting, protection from rate increases. Drawback: Cannot benefit from rate decreases, typically 0.5-1% higher than floating rate initially. (2) Floating Rate: Interest rate linked to external benchmark (RBI Repo Rate or MCLR) and reviewed quarterly. Benefits: Lower initial rate, benefit from rate cuts, can save significantly if rates fall. Drawback: EMI may increase if rates rise, uncertain future payments. Current scenario: Floating rates recommended as rates are expected to remain stable or decrease. You can switch from floating to fixed (one-time conversion fee ₹2,000 + GST) but not vice versa."
+    },
+    {
+        "instruction": "How is the interest rate determined for my loan?",
+        "input": "",
+        "output": "Your interest rate is calculated using a risk-based pricing model: Step 1 - Base Rate: Starts with our benchmark rate (currently 9.5% linked to RBI Repo Rate). Step 2 - Credit Score Premium: 750+ → No premium, 700-749 → +1.5%, 650-699 → +3.5%, Below 650 → +6-8%. Step 3 - Income Risk: Monthly income ₹50K+ → No premium, ₹25-50K → +0.5%, Below ₹25K → +1.5%. Step 4 - Employment Type: PSU/MNC → -0.5%, Stable salaried → 0%, Self-employed → +1%, New business → +2%. Step 5 - Loan Amount: Above ₹5L → -0.5%, Below ₹1L → +1%. Step 6 - Relationship Discount: Existing customer with good history → -0.25%. Final rate = Base + All applicable premiums - Discounts. Example: 9.5% + 0% (score 760) + 0% (income 60K) - 0.5% (PSU) - 0.5% (₹7L loan) = 8.5% p.a."
+    },
+    {
+        "instruction": "Can my interest rate change during the loan tenure?",
+        "input": "",
+        "output": "For floating rate loans: Yes, interest rate changes quarterly based on RBI Repo Rate movements. If RBI increases rates by 0.25%, your rate increases by same amount (for external benchmark linked loans). Changes take effect from next quarter with 30 days' notice. Impact: Your EMI amount will increase or decrease accordingly. For fixed rate loans: No, your interest rate is locked for entire tenure. Even if market rates increase to 20%, your rate remains as agreed initially. Exception: Default or restructuring may trigger rate revision. Historical trend: Rates have fluctuated between 8-14% in last 5 years. Current floating rates recommended as RBI is maintaining stable policy. You receive email notification before any rate change with revised EMI schedule."
+    },
+    {
+        "instruction": "What is the difference between reducing and flat interest rates?",
+        "input": "",
+        "output": "Critical to understand as this significantly impacts total interest: (1) Reducing Balance (We use this): Interest calculated on outstanding principal amount. As you repay, principal reduces, so interest also reduces each month. Example: ₹1L loan, 12% rate, 1 year - Total interest ≈ ₹6,600. (2) Flat Rate (We don't use): Interest calculated on original principal throughout tenure. Example: Same ₹1L, 12% flat - Total interest = ₹12,000 (almost double!). Comparison: 12% reducing rate = approximately 22% flat rate. Always ask for reducing rate. We use only reducing balance method as per RBI guidelines and industry best practices. Be cautious of lenders advertising low flat rates - convert to reducing rate for fair comparison."
+    },
+    {
+        "instruction": "How much interest will I pay in total?",
+        "input": "Loan amount: ₹3,00,000, Interest rate: 14% p.a., Tenure: 24 months",
+        "output": "For your loan details, the calculation is: Monthly EMI = ₹14,485, Total amount payable = ₹14,485 × 24 = ₹3,47,640, Total interest paid = ₹3,47,640 - ₹3,00,000 = ₹47,640. This represents 15.88% of your loan amount. Breakdown: Year 1 interest ≈ ₹28,200, Year 2 interest ≈ ₹19,440. In first 6 months, interest component is ₹3,500-2,800 per EMI. In last 6 months, it's only ₹1,500-800 per EMI. Ways to reduce interest: (1) Choose shorter tenure if affordable, (2) Prepay ₹20,000 annually - saves ₹5,000 in interest, (3) Make EMI payments on time, (4) Improve credit score for better rate on next loan."
+    },
+    {
+        "instruction": "Can I switch from floating to fixed interest rate?",
+        "input": "",
+        "output": "Yes, you can switch from floating to fixed rate once during loan tenure. Process: (1) Submit request via loan dashboard or customer support, (2) Current market fixed rate will be offered (may be 0.5-1.5% higher than your floating rate), (3) Conversion fee: ₹2,000 + 18% GST = ₹2,360, (4) Request processed in 10-15 days, (5) New EMI calculated based on fixed rate and remaining tenure, (6) Change takes effect from next EMI cycle. When to consider: If RBI is increasing rates and you expect further increases, fixing rate makes sense. Important: Once converted to fixed, you cannot switch back to floating. Most customers prefer floating rate currently due to stable rate environment. Reverse conversion (fixed to floating) not allowed."
+    },
+    {
+        "instruction": "What is repo rate and how does it affect my loan?",
+        "input": "",
+        "output": "RBI Repo Rate is the rate at which RBI lends to commercial banks. Current rate: 6.50% (as of December 2024). How it affects you: (1) For external benchmark linked loans: Your rate = Repo Rate + Spread. If repo rate changes by 0.25%, your rate changes equally. (2) For MCLR linked loans: Changes transmit with 3-6 month lag. (3) For fixed rate loans: No impact. Example: Current loan at 11% (6.5% repo + 4.5% spread). If RBI increases repo to 6.75%, your rate becomes 11.25%. On ₹5L loan, EMI increases by ₹70-100. Rate reviews: Quarterly (April, July, October, January). RBI announces rate in first week, changes reflect in your EMI from next quarter. Track RBI monetary policy meetings to anticipate rate changes."
+    },
+    {
+        "instruction": "Are there any hidden charges or processing fees?",
+        "input": "",
+        "output": "We maintain complete transparency. All charges disclosed upfront: (1) Processing fee: 2-3% of loan amount (₹1,000 to ₹15,000) + 18% GST - charged at disbursement, (2) Late payment penalty: ₹500 to 2% of EMI + GST, (3) Bounced EMI/Cheque: ₹400-750 per instance, (4) EMI date change: ₹500 + GST (one-time), (5) Duplicate statement: ₹100 per statement, (6) Foreclosure charges: 0-5% based on loan type and tenure, (7) Part payment: Free (up to 3 times/year), (8) Legal notice charges: ₹5,000 + GST if default exceeds 90 days. NO hidden charges for: Annual maintenance, account keeping, normal statement generation, auto-debit setup. All charges listed in loan agreement. Total charges typically 3-5% of loan amount over tenure if paid on time."
+    },
+    {
+        "instruction": "What is the APR or annual percentage rate?",
+        "input": "",
+        "output": "APR (Annual Percentage Rate) is the true cost of borrowing including interest rate plus all fees. It provides accurate comparison between lenders. Calculation: APR includes (1) Interest rate, (2) Processing fees, (3) Other mandatory charges amortized over loan tenure. Example: ₹1L loan, 12% interest rate, ₹2,000 processing fee, 12 months. Simple interest cost = ₹6,600. After adding fees: Effective APR = 14.2%. Our typical APR range: (1) Personal loans: 12-26% depending on profile, (2) Home loans: 8.5-11%, (3) Business loans: 13-22%. By law, we must disclose APR in loan agreement. Always compare APRs, not just interest rates, when choosing lender. Lower interest but high processing fees can result in higher APR and greater total cost."
+    },
+    {
+        "instruction": "How do I calculate EMI for different loan amounts?",
+        "input": "",
+        "output": "Use our EMI calculator available at: (1) Website: www.lendkraft.ai/emi-calculator - enter loan amount, rate, tenure to see instant EMI and total interest, (2) Mobile app: Home screen > EMI Calculator, (3) Manual formula: EMI = [P × R × (1+R)^N] / [(1+R)^N-1], where P = principal, R = monthly rate (annual rate/12/100), N = months. Examples at 12% p.a.: ₹1,00,000 for 12 months = ₹8,885/month, ₹3,00,000 for 24 months = ₹14,485/month, ₹5,00,000 for 36 months = ₹16,607/month, ₹10,00,000 for 60 months = ₹22,244/month. Pro tip: To quickly estimate, multiply loan amount by these factors: 1yr=0.089, 2yr=0.048, 3yr=0.033, 5yr=0.022. Accuracy ±2%."
+    },
+    {
+        "instruction": "Why was my transaction declined?",
+        "input": "",
+        "output": "Common reasons for transaction decline: (1) Insufficient bank balance - most common (45% of failures), (2) Daily transaction limit exceeded on your bank account, (3) Card expired or blocked - check with issuing bank, (4) Incorrect CVV, OTP, or PIN entered, (5) Bank server downtime or technical issues (15% of cases), (6) Transaction amount exceeds card limit, (7) International transaction blocked (if applicable), (8) Merchant category restrictions on card. Immediate actions: (1) Check bank balance and limits, (2) Try different payment method (UPI, net banking, different card), (3) Contact your bank to verify no blocks, (4) Retry after 30 minutes if technical issue, (5) Try lower amount to test. If persists, call our support at 1800-XXX-XXXX with transaction reference number."
+    },
+    {
+        "instruction": "How long does it take for my payment to reflect?",
+        "input": "",
+        "output": "Payment processing time varies by method: (1) UPI (Google Pay, PhonePe, Paytm): Instant to 2 hours, typically shows in 15 minutes, (2) Net Banking: 1-4 hours during banking hours (9 AM - 6 PM), up to 24 hours if done after 6 PM, (3) Debit/Credit Card: 2-6 hours, (4) NEFT: Same day if before 5 PM, next working day if after, (5) RTGS: 30 minutes to 2 hours during RTGS window (9 AM - 4:30 PM), (6) Cheque/DD: 3-7 working days after submission. Your loan account updates: Within 24 hours of payment clearance. EMI status changes from 'Due' to 'Paid'. If payment doesn't reflect within timeline, check: (1) Payment successful at bank end, (2) Correct loan account number used, (3) Holiday/weekend delays. Contact support with transaction ID if delayed beyond 24 hours."
+    },
+    {
+        "instruction": "Can I pay through credit card?",
+        "input": "",
+        "output": "Yes, credit card payment is accepted with conditions: (1) Available for: EMI payments, processing fees, and other charges, (2) Not available for: Principal prepayment (RBI guideline), (3) Accepted cards: Visa, Mastercard, Rupay issued by any Indian bank, (4) Convenience fee: 1% + 18% GST on transaction amount (₹100 minimum), (5) Example: ₹10,000 EMI payment = ₹10,000 + ₹118 (1% + GST) = ₹10,118, (6) Payment limit: Up to ₹2,00,000 per transaction, (7) Processing time: 2-6 hours. Note: Using credit card for loan EMI creates additional debt. Recommended only for: (1) Temporary cash flow issues, (2) Earning credit card rewards points, (3) Emergency situations. Better to use debit card, UPI, or net banking for regular EMI payments to avoid extra charges."
+    },
+    {
+        "instruction": "What payment methods do you accept?",
+        "input": "",
+        "output": "We accept all major payment methods for maximum convenience: (1) Auto-debit/NACH: Automatic deduction from bank account - recommended for EMI, zero charges, (2) UPI: Google Pay, PhonePe, Paytm, BHIM - instant, free, 24x7 available, (3) Net Banking: All major banks - free, 1-4 hour processing, (4) Debit Card: Visa, Mastercard, Rupay - 0.5% convenience fee, (5) Credit Card: For EMI only, 1% convenience fee, (6) NEFT/RTGS: Direct bank transfer - free, takes 2-24 hours, (7) Payment Wallets: Paytm, MobiKwik - instant, (8) Cheque: At branch, 3-7 days clearance, (9) Cash: At authorized collection centers (up to ₹49,999 per transaction as per RBI). Recommended: Auto-debit for hassle-free EMI, UPI for one-time payments. Always save payment confirmation."
+    },
+    {
+        "instruction": "Is my payment information secure?",
+        "input": "",
+        "output": "Yes, we employ bank-grade security: (1) PCI-DSS Level 1 certified payment gateway - highest security standard, (2) 256-bit SSL encryption for all transactions - same as banks use, (3) No card/account details stored on our servers - processed directly by payment gateway, (4) Two-factor authentication for all payments (OTP/PIN), (5) Transaction monitoring with fraud detection systems, (6) Compliance with RBI digital payment guidelines. Security features: (1) OTP sent to registered mobile only, (2) Transaction limit alerts, (3) IP address verification, (4) Device fingerprinting for suspicious activity. Your responsibilities: (1) Never share OTP with anyone including our staff, (2) Use secure internet connection (not public WiFi for payments), (3) Clear browser cache after payment, (4) Verify website URL before payment (https://lendkraft.ai). Report unauthorized transactions within 24 hours to support@lendkraft.ai."
+    },
+    {
+        "instruction": "Can I get a payment receipt or confirmation?",
+        "input": "",
+        "output": "Yes, payment confirmation provided automatically through multiple channels: (1) Instant SMS to registered mobile number with transaction ID, date, amount, and loan account number, (2) Email receipt within 1 hour to registered email with detailed payment breakdown, (3) Payment history in loan dashboard - login > Payments > All transactions with download option, (4) Mobile app - Payment section shows all receipts with PDF download, (5) Monthly statement - includes all payments made in the month. Receipt contains: Transaction ID, payment date and time, amount paid, payment method, loan account number, remaining balance, and next EMI due date. For GST invoices (processing fees): Available in Documents section within 24 hours. To download old receipts: Login > Payments > Select date range > Download PDF/Excel. Keep receipts for 3 years for tax and loan closure records."
+    },
+    {
+        "instruction": "What should I do if I made a wrong payment?",
+        "input": "",
+        "output": "If you made payment to wrong account or wrong amount: Immediate action (within 24 hours gives best chance): (1) Call emergency helpline 1800-XXX-XXXX immediately, (2) Email support@lendkraft.ai with: Transaction ID, screenshot of payment confirmation, correct loan account number, amount paid, date and time, (3) Do NOT make duplicate payment until issue is resolved. Our process: (1) If payment not yet credited (within 6 hours): We can attempt to reverse, (2) If credited to wrong loan account (ours): Adjusted within 3-5 days after verification, (3) If paid to completely wrong company/UPI: We cannot help - you must contact your bank immediately for chargeback (success rate low), (4) Excess payment: Adjusted against future EMI or refunded in 7-10 days. Prevention: Always verify loan account number, check amount before confirming, save beneficiary for future. Most wrong payment cases resolved within 5-7 working days if caught early."
+    },
+    {
+        "instruction": "How do I track my payment history?",
+        "input": "",
+        "output": "Track complete payment history through: (1) Loan Dashboard: Login at www.lendkraft.ai > My Loans > Select loan > Payment History tab showing: Date, amount, method, transaction ID, status (pending/successful/failed), EMI number, principal and interest breakup, (2) Mobile App: Loans > Payment History with search and filter by date range, (3) Monthly Statement: Auto-emailed 5 days before EMI due date with all payments in current month, (4) Download Options: Excel or PDF format - useful for tax filing and records, (5) SMS History: All payment confirmations saved on registered mobile. Advanced filters: Filter by payment status, date range, payment method, amount range. Search by transaction ID. Tax statement: Annual statement with all payments available in March for previous financial year. Retain records for at least 3 years after loan closure."
+    },
+    {
+        "instruction": "Can I set up automatic payments for my loan?",
+        "input": "",
+        "output": "Yes, automatic payments highly recommended through NACH (National Automated Clearing House): Setup process: (1) Login > EMI Payment > 'Enable Auto-debit', (2) Provide bank account details (current/savings), (3) Set maximum debit amount (we recommend 1.5x your EMI to cover any revisions), (4) Authenticate via net banking OTP or physical form, (5) Bank processes mandate in 7-10 days, (6) You receive activation confirmation via SMS and email. Benefits: (1) Never miss EMI due date, (2) Zero payment charges, (3) Auto-debit happens 1 day before due date, (4) Protects credit score from accidental misses, (5) Eligible for 0.25% interest rate discount. Requirements: (1) Maintain sufficient balance 2 days before due date, (2) Account should be active and operational. You can pause or cancel mandate anytime. Failed auto-debit due to insufficient funds still attracts penalty, so monitor account balance."
+    },
+    {
+        "instruction": "What happens if my payment bounces?",
+        "input": "",
+        "output": "Payment bounce (cheque, ECS, or auto-debit failure) has serious consequences: Immediate impact: (1) Bounce charges: ₹500-750 + 18% GST depending on payment mode, (2) Late payment penalty: ₹500-1000 or 2% of EMI (whichever higher) + GST, (3) Additional interest: 2% p.a. over loan rate on overdue amount from due date, (4) EMI marked as unpaid - must be cleared immediately. Medium-term impact (7-30 days): (1) Collection calls and emails starting from day 1, (2) Credit score impact: -25 to -50 points if overdue beyond 7 days, (3) Account flagged for increased monitoring, (4) Future auto-debit may be disabled. Long-term impact (30+ days): (1) Severe credit score damage: -100 points or more, (2) Reported to credit bureaus as default, (3) Legal notice after 90 days, (4) Loan recall and asset seizure for secured loans. Prevention: (1) Maintain 1.5x EMI balance, (2) Set calendar reminders, (3) Enable low balance SMS alerts."
+    },
+    {
+        "instruction": "How can I update my bank account for EMI payments?",
+        "input": "",
+        "output": "To change EMI deduction account: Process: (1) Login to account > Profile > Payment Settings > 'Update Bank Account', (2) Add new bank account details (account number, IFSC, account holder name - must match loan applicant name), (3) Upload cancelled cheque or bank statement (not older than 3 months), (4) Submit for verification, (5) Verification takes 2-3 working days via penny drop test, (6) Once verified, set as primary account, (7) Update auto-debit mandate for new account (additional 7-10 days). Important: (1) Old account remains active until new mandate is set up - maintain balance in old account until confirmation, (2) Cannot change to account in someone else's name, (3) Joint accounts acceptable if loan is jointly held, (4) Update at least 15 days before next EMI due date to avoid disruption. One-time charges: Mandate revision fee ₹200 + GST. Confirm completion via SMS/email before stopping old account."
+    },
+    {
+        "instruction": "How do I check my loan application status?",
+        "input": "",
+        "output": "Track your loan application through: (1) Application Dashboard: Login > My Applications > View real-time status showing current stage: Document upload, Verification in progress, Credit assessment, Approval pending, Approved, Disbursement processing, Disbursed. Each stage shows expected timeline. (2) SMS Updates: Automatic alerts sent at each stage change to registered mobile, (3) Email Notifications: Detailed updates with next steps and requirements, (4) Application ID tracking: Visit website > Track Application > Enter Application ID + DOB, (5) Mobile App: Applications section with push notifications, (6) Customer Support: Call 1800-XXX-XXXX with application ID. Average timeline: Document verification 1-2 days, Credit assessment 1 day, Final approval 1-2 days, Disbursement 1-2 days. Total: 4-7 working days for standard cases. Delays if: Incomplete documents, holidays, high credit risk requiring management approval."
+    },
+    {
+        "instruction": "Why is my loan application taking so long?",
+        "input": "",
+        "output": "Common reasons for processing delays: (1) Incomplete documentation (35% of delays): Missing documents, unclear scans, signature mismatch, expired ID proofs. Check email for document request. (2) Verification delays (25%): Employer not responding to verification calls, address verification pending, references unreachable. Follow up with your references. (3) Credit assessment issues (20%): Multiple active applications affecting score, recent loan defaults requiring review, complex income structure needing manual assessment. (4) Technical delays (10%): Bank holidays, system maintenance, high application volume. (5) Policy approvals (10%): Loan amount above auto-approval limit, employment profile needing management review. Standard timeline: 4-7 working days. Current status check: Login to dashboard or call support. Expedite options: (1) Submit pending documents immediately, (2) Provide alternative verification contacts, (3) Request priority processing (₹500 fee) if urgent. Support: 1800-XXX-XXXX."
+    },
+    {
+        "instruction": "What documents are required for loan approval?",
+        "input": "",
+        "output": "Complete documentation checklist: Identity Proof (any one): (1) PAN Card - mandatory for all loans, (2) Aadhaar Card, (3) Passport, (4) Voter ID. Address Proof (any one, not older than 3 months): (1) Aadhaar Card, (2) Utility bill (electricity/gas/water), (3) Rental agreement, (4) Passport. Income Proof - For Salaried: (1) Last 3 months' salary slips, (2) 6 months' bank statement showing salary credits, (3) Form 16 or ITR for last year, (4) Employment certificate/appointment letter. For Self-Employed: (1) ITR for last 2 years with computation, (2) 6-12 months' bank statements, (3) Business proof (registration, GST), (4) Audited financials or CA-certified statements. Additional: (1) Passport-size photographs (2 copies), (2) Cancelled cheque for bank account verification. All documents must be clear, valid, and information must be consistent. Upload PDFs or clear scanned images (max 5MB each)."
+    },
+    {
+        "instruction": "Can I cancel my loan application?",
+        "input": "",
+        "output": "Yes, you can cancel application at any stage before disbursement: Before approval: (1) Login to dashboard > My Applications > Select application > 'Cancel Application', (2) Cancellation is instant, no questions asked, (3) No charges applied, processing fee not applicable, (4) Credit inquiry already done cannot be reversed - may have minor impact on score. After approval but before disbursement: (1) Submit cancellation request via email to support@lendkraft.ai with application ID and reason, (2) Cancellation processed within 24 hours, (3) If processing fee was deducted from loan amount (deducted post-disbursement model): Fee will not be charged, (4) If processing fee paid upfront: May be eligible for 50-75% refund within 7 days. After disbursement: Cannot cancel - treated as regular loan. You can foreclose immediately (foreclosure charges apply). Cancellation valid reasons: Found better deal, changed financial plans, personal circumstances. No negative impact on future applications."
+    },
+    {
+        "instruction": "How long does it take to get loan approval?",
+        "input": "",
+        "output": "Loan approval timeline breakdown: Step 1 - Application submission: Instant (10-15 minutes to complete form), Step 2 - Document verification: 6-24 hours (faster if documents are clear and complete), Step 3 - Credit bureau check: Instant to 2 hours, Step 4 - Employment/income verification: 1-2 working days (may call employer and references), Step 5 - Credit assessment: 4-12 hours, Step 6 - Final approval: 4-24 hours. Total typical timeline: 2-4 working days for straightforward cases, 5-7 working days for complex profiles, 7-10 working days during peak periods or holidays. Instant approval (same day): Available for existing customers with excellent credit score (750+), pre-approved offers, small loan amounts (under ₹1,00,000) with standard profiles. Delays possible due to: incomplete documents, verification issues, high-risk assessment, holidays. Track status in dashboard. For urgent needs, request priority processing."
+    },
+    {
+        "instruction": "What is the loan sanction letter?",
+        "input": "",
+        "output": "Loan sanction letter is the official approval document issued after your application is approved. Contents: (1) Sanctioned loan amount, (2) Interest rate (fixed/floating), (3) EMI amount and tenure, (4) Processing fees and charges, (5) Terms and conditions, (6) Validity period (typically 30-90 days from issuance), (7) Disbursement conditions and required documents. Purpose: (1) Formal confirmation of loan approval, (2) Legal document for disbursement, (3) Reference for all loan terms, (4) Required for property transactions (home loans). How to receive: (1) Email to registered email ID within 24 hours of approval, (2) Download from loan dashboard > Documents section, (3) Physical copy sent to registered address (optional, on request). Next steps after sanction: (1) Review all terms carefully, (2) Submit any pending documents mentioned, (3) Accept sanction within validity period (login > Accept Sanction), (4) Complete disbursement formalities. Sanction is not disbursement - funds released after acceptance and documentation."
+    },
+    {
+        "instruction": "How do I accept the loan offer?",
+        "input": "",
+        "output": "After receiving sanction letter, acceptance process: Step 1: Review sanction letter thoroughly - verify loan amount, interest rate, EMI, tenure, fees, and all terms and conditions. Step 2: Login to your account > My Applications > View sanction details. Step 3: Read and understand all terms - click on 'Terms & Conditions' link for complete document. Step 4: Click 'Accept Loan Offer' button. Step 5: E-sign loan agreement using Aadhaar-based e-sign (requires OTP on Aadhaar-linked mobile) or upload physically signed agreement if e-sign not available. Step 6: Submit post-sanction documents if any (insurance, property papers for secured loans). Step 7: Provide bank account details for disbursement if not already done. Step 8: Receive confirmation email. Disbursement timeline: 1-3 working days after acceptance and final documentation. Note: Sanction valid for 30-90 days. If not accepted within validity, need to reapply. No charges for accepting offer."
+    },
+    {
+        "instruction": "When will the loan amount be disbursed?",
+        "input": "",
+        "output": "Disbursement timeline after loan acceptance: Standard process: Day 1: Accept sanction and complete e-signing, Day 2-3: Final document verification and compliance check, Day 3-5: Disbursement approval and processing, Day 5-7: Amount credited to bank account. Faster disbursement (1-2 days): Available if (1) All documents perfect, (2) E-sign completed, (3) Standard bank account, (4) Working day, (5) No additional verifications required. Disbursement notification: (1) SMS alert when amount is credited, (2) Email with disbursement details and loan account number, (3) Bank statement shows credit within 2-4 hours. Disbursement happens to: Registered bank account only (as per application), not to third party. Funds availability: Immediately after credit for all purposes. Possible delays: Bank holidays, weekend processing, large amounts requiring additional approvals (above ₹10L), first-time customers. Track: Login > Disbursement Status. For delays beyond 7 days, contact support@lendkraft.ai."
+    },
+    {
+        "instruction": "What should I do if loan amount is not credited?",
+        "input": "",
+        "output": "If loan amount not credited within expected timeline: Immediate checks (within 24 hours): (1) Verify loan status: Login > Applications > Check if status shows 'Disbursed' or still 'Processing', (2) Check bank account: Verify you're checking correct account (as per application), check for any blocks or holds, (3) Check email: Disbursement confirmation email has UTR/transaction reference, (4) Check SMS: Disbursement confirmation sent to registered mobile. Contact us if: (1) Status shows 'Disbursed' but amount not in account after 24 hours, (2) More than 7 days since acceptance with no update, (3) Received disbursement email but no credit. Contact details: (1) Call 1800-XXX-XXXX with application ID and loan account number, (2) Email support@lendkraft.ai with screenshot of disbursement email, (3) Provide bank account statement. Resolution timeline: 90% issues resolved within 24 hours (mostly bank-end delays), Refunds/corrections take 3-5 days. Keep calm - no disbursement gets lost, all are tracked."
+    },
+    {
+        "instruction": "How do I close my loan account?",
+        "input": "",
+        "output": "Loan account closure (foreclosure) process: Step 1: Request foreclosure statement: Login > Loans > 'Request Foreclosure Statement' or call 1800-XXX-XXXX. Statement includes: Outstanding principal, Interest till foreclosure date, Foreclosure charges (0-5% based on loan type), Pending fees/penalties, Total payable amount. Valid for 7 days. Step 2: Make payment: Use provided payment link, NEFT/RTGS to given account, or visit branch. Payment must be exact amount in statement. Step 3: Confirmation: Loan marked as closed within 24-48 hours, Closure confirmation email sent, Account status updated. Step 4: NOC and documents: NOC (No Objection Certificate) issued within 15 days, Original documents returned (if any pledged), CIBIL update to 'Closed' within 30 days. Documents to receive: Loan closure letter, NOC, Original documents (property papers, etc. if applicable). Verify CIBIL after 45 days to ensure 'Closed' status. Closure improves credit score by 10-30 points over 3 months. Keep all closure documents for 7 years."
+    },
+    {
+        "instruction": "What is NOC and when will I receive it?",
+        "input": "",
+        "output": "NOC (No Objection Certificate) is a formal document issued after complete loan repayment confirming: (1) All dues are cleared, (2) No outstanding obligations, (3) Lender has no claim on borrower or assets, (4) Permission to remove charge from property (for secured loans). Issuance timeline: (1) Personal loans: 7-15 days after foreclosure, (2) Secured loans (home/vehicle): 15-30 days after foreclosure and property charge removal initiation, (3) Delays possible during high volume periods or holidays. Contents of NOC: (1) Loan account number and borrower details, (2) Loan amount and disbursement date, (3) Closure date and confirmation, (4) Statement of no dues, (5) Signature of authorized signatory with official stamp. Delivery method: (1) Email to registered email (PDF), (2) Physical copy by courier to registered address (for secured loans), (3) Download from dashboard > Documents > NOC. Importance: Required for removing encumbrance from property records, updating RC book (vehicle loans), future loan applications. If not received: Follow up after 30 days, escalate to grievance.officer@lendkraft.ai."
+    },
+    {
+        "instruction": "How do I register a complaint?",
+        "input": "",
+        "output": "We have a structured grievance redressal mechanism: Level 1 - Customer Support (for routine issues): Call 1800-XXX-XXXX (9 AM - 9 PM, all days), Email support@lendkraft.ai, Chat support on website/app. Resolution timeline: 24-48 hours. Level 2 - Complaint Registration (for unresolved issues): Email complaints@lendkraft.ai with: Loan account number, detailed complaint description, previous communication reference, supporting documents if any. Acknowledgment within 24 hours with complaint ID. Resolution timeline: 7 working days. Level 3 - Grievance Officer (escalation): Email grievance.officer@lendkraft.ai for: Complaints not resolved in 7 days, serious issues (harassment, privacy breach, fraud), policy disputes. Resolution timeline: 15 working days. External Escalation (if still unresolved): RBI Ombudsman Scheme: File online at https://cms.rbi.org.in. We commit to: Fair hearing, unbiased resolution, regular updates. Track complaint: Use complaint ID on website > Track Complaint. Common issues resolved: 90% at Level 1, 8% at Level 2, 2% at Level 3."
+    },
+    {
+        "instruction": "I lost my job, what are my options for the loan?",
+        "input": "",
+        "output": "Job loss during active loan requires immediate action. Contact us within 7 days for relief options: Option 1 - Loan Restructuring: (1) Extended tenure (EMI reduction 20-40%), (2) Moratorium period of 2-3 months (interest-only payments), (3) No additional penalty for restructuring, (4) Requires proof of job loss and current financial status. Timeline: Approval in 7-10 days. Option 2 - Emergency Payment Plan: (1) Pay reduced EMI (50-75%) for 3-6 months, (2) Balance adjusted in future months, (3) Interest continues on full outstanding. Option 3 - Insurance Claim (if opted): Job loss protection insurance covers 3-6 EMIs if: (1) You had opted for insurance during loan, (2) Job loss is involuntary (not resignation), (3) Claim filed within 30 days. Documents required: Termination letter, bank statement, updated income proof (if new job), ID proof. DO NOT: Stop paying EMI without informing us (damages credit severely), Wait until default notices arrive. Proactive communication leads to better solutions. Alternative: If you have savings, consider partial prepayment to reduce burden."
+    },
+    {
+        "instruction": "Can I transfer my loan to another bank?",
+        "input": "",
+        "output": "Yes, loan transfer or balance transfer to another lender is possible: When to consider: (1) Significantly lower interest rate offered elsewhere (minimum 1-2% difference to be beneficial), (2) Better service or flexible terms, (3) To consolidate multiple loans. Our policy: (1) No objection provided if no serious defaults in last 12 months, (2) You must request NOC and foreclosure statement, (3) New lender will settle outstanding amount with us directly. Process: Step 1: Get loan offer from new lender with better terms. Step 2: Request balance transfer NOC from us. Step 3: New lender processes balance transfer. Step 4: Outstanding amount cleared by new lender. Step 5: Our loan account closed, NOC issued. Charges you'll pay: (1) Our foreclosure charges: 2-5% of outstanding (if applicable), (2) Processing fee to new lender: 1-3% of transfer amount, (3) Legal/administrative charges: ₹2,000-5,000. Cost-benefit: Calculate break-even. If saving ₹200/month but paying ₹20,000 in charges, break-even after 100 months. Transfer makes sense for high outstanding and long tenure. Timeline: 15-30 days."
+    },
+    {
+        "instruction": "What is loan insurance and should I take it?",
+        "input": "",
+        "output": "Loan insurance protects you and your family from loan burden in adverse events: Types offered: (1) Life Insurance: Outstanding loan paid if borrower dies, Premium: 0.5-1.5% of loan amount annually, Coverage decreases as loan reduces. (2) Disability Insurance: EMI payments covered if permanently disabled, Premium: 0.3-0.8% of loan amount. (3) Critical Illness: 6-12 months EMI covered for specified illnesses, Premium: 0.5-1% of loan. (4) Job Loss Protection: 3-6 EMIs covered if involuntary job loss, Premium: 0.4-0.9% of loan. Decision factors: Take if: (1) You are sole breadwinner with dependents, (2) Uncertain job/business, (3) No existing adequate life insurance, (4) Large loan amount (₹5L+), (5) Peace of mind worth the cost. Skip if: (1) You have adequate term insurance (10x of loan), (2) Stable job with emergency fund, (3) Multiple income sources, (4) Small loan with short tenure. Our recommendation: Insurance is optional. Better: Buy comprehensive term insurance separately (cheaper, better coverage). Calculate: ₹10L loan at 1% insurance = ₹10,000/year. Term insurance ₹1 crore coverage = ₹12,000/year (better value)."
+    },
+    {
+        "instruction": "Can someone else pay my EMI?",
+        "input": "",
+        "output": "Yes, third-party EMI payment is acceptable with conditions: Allowed scenarios: (1) Family member helping during temporary financial stress, (2) Employer paying on your behalf, (3) Friend/relative making payment, (4) Co-borrower making payment. Payment methods for third-party: (1) NEFT/RTGS: Use their bank account to transfer to our loan account, (2) UPI: They can pay using loan account number, (3) Cheque: Their cheque accepted (name will be different), (4) Cash: At branch (up to ₹49,999 per transaction, PAN required for ₹50,000+). Important notes: (1) EMI legal responsibility remains with original borrower, (2) Payment must reference correct loan account number, (3) Receipt generated in loan holder's name, not payer's name, (4) No ownership transfer - third party gains no rights to loan or asset, (5) For tax benefits: Only original borrower can claim, not payer. Documentation: (1) No special documentation required for occasional payments, (2) If regular third-party payment: Letter of authorization recommended. Auto-debit: Can be set up only from loan holder's account."
+    },
+    {
+        "instruction": "What is CIBIL score and why is it important?",
+        "input": "",
+        "output": "CIBIL score is a 3-digit number (300-900) representing your creditworthiness based on credit history. Calculated by: TransUnion CIBIL using your loan/credit card repayment behavior, credit utilization, credit history length, credit mix, and recent credit inquiries. Score ranges and meaning: (1) 750-900 (Excellent): 90% loan approval chance, best interest rates (10.5-12% p.a.), high loan amounts, quick processing. (2) 700-749 (Good): 70% approval chance, standard rates (12-15% p.a.). (3) 650-699 (Fair): 40% approval chance, higher rates (15-18% p.a.), may need co-applicant. (4) 300-649 (Poor): 10% approval chance, very high rates (20-24% p.a.) or rejection, requires guarantor/collateral. Why important: (1) Determines loan approval, (2) Affects interest rate (difference of 5-10% p.a.), (3) Impacts loan amount eligibility, (4) Used by banks, NBFCs, credit card companies. Impact example: ₹5L loan for 3 years: Score 780 = 11% rate = ₹16,371 EMI, Score 650 = 18% rate = ₹18,076 EMI. Difference = ₹61,380 extra over tenure!"
+    },
+    {
+        "instruction": "How can I improve my credit score?",
+        "input": "",
+        "output": "Credit score improvement requires 3-12 months of disciplined financial behavior: Immediate actions (impact in 1-3 months): (1) Pay all EMIs and credit card bills on time - single most important factor (35% of score), Set auto-pay to avoid missing, (2) Pay credit card full outstanding, not minimum due - utilization affects 30% of score, (3) Keep credit utilization below 30% - if limit is ₹1L, use max ₹30K, (4) Check credit report for errors - dispute incorrect information at CIBIL website. Medium-term actions (3-6 months): (1) Don't apply for multiple loans/cards - each inquiry reduces score by 5-10 points, (2) Maintain old credit cards - longer credit history helps (15% of score), (3) Mix of credit - combination of secured (home loan) and unsecured (personal loan) is good, (4) Settle, don't default - if unable to pay, negotiate settlement but pay something. Long-term habits: (1) Never default or delay beyond 30 days - one 90-day default can drop score by 100 points, (2) Keep debt-to-income ratio below 40%, (3) Build 6-month emergency fund. Expected improvement: 650→700 in 6 months, 700→750 in 12 months with consistent behavior."
+    },
+    {
+        "instruction": "Where can I check my CIBIL score for free?",
+        "input": "",
+        "output": "Multiple options to check your CIBIL score for free: (1) CIBIL Official Website: Visit www.cibil.com, one free report per year, detailed report costs ₹550, shows score, report, and detailed history, most accurate source. (2) Our Platform: Login > Profile > 'Check Credit Score', free unlimited times, updated monthly, shows score + key factors affecting it, provided through CIBIL integration. (3) Other Free Services: Paisabazaar.com, BankBazaar.com, Paytm, PhonePe, Google Pay - free unlimited checks, soft inquiry (doesn't impact score). (4) Many banks: If you have credit card/loan, many banks show score in mobile app. What you get free: Credit score number, basic report, score factors. Paid detailed report includes: Complete credit history, list of all credit accounts, inquiry history, public records, dispute status. Recommendation: Check score every 3 months to monitor financial health. Check before applying for loan to avoid surprises. Soft inquiries (checking your own score) don't reduce score. Hard inquiries (when applying for loan) reduce by 5-10 points. We perform soft inquiry for eligibility check."
+    },
+    {
+        "instruction": "I want to report a fraud or unauthorized transaction",
+        "input": "",
+        "output": "For suspected fraud or unauthorized transactions, take immediate action: URGENT - within 2 hours: (1) Call emergency fraud helpline: 1800-XXX-XXXX (24x7), (2) Request immediate account freeze to prevent further unauthorized transactions, (3) Change all passwords (loan account, email, net banking), (4) Block debit/credit card if compromised. Within 24 hours: (1) File formal fraud complaint via email: fraud.report@lendkraft.ai, Include: Nature of fraud, transaction details (date, amount, ID), last known authorized transaction, supporting evidence (screenshots), police complaint copy if applicable. (2) File FIR at local police station for financial fraud, (3) Inform your bank about potential fraud. Our investigation: (1) Account frozen immediately upon fraud report, (2) Preliminary investigation within 48 hours, (3) Detailed investigation up to 15 days, (4) Regular updates every 3 days. Resolution: (1) If fraud proven: Transaction reversed, account restored, police case supported, (2) If not fraud: Transaction stands, account unfrozen. Liability: (1) Zero liability if reported within 3 days and not negligent, (2) Limited liability if reported 3-7 days, (3) Full liability if delayed beyond 7 days or due to gross negligence (shared OTP, password). NEVER share: OTP, password, card CVV, PIN with anyone including our staff."
+    },
+    {
+        "instruction": "Tell me today's weather",
+        "input": "",
+        "output": "I apologize, but I can only assist with banking, financial services, loan, and insurance-related queries. For weather information, I recommend using weather apps or websites like weather.com, AccuWeather, or your phone's weather app. Is there anything related to your loan, EMI, payments, or banking services that I can help you with?"
+    },
+    {
+        "instruction": "What's the best restaurant near me?",
+        "input": "",
+        "output": "I'm a specialized BFSI (Banking, Financial Services, Insurance) assistant and can only help with queries related to loans, EMI payments, account management, interest rates, and financial services. For restaurant recommendations, I suggest using Google Maps, Zomato, or Swiggy. However, if you need information about loan eligibility, payment status, or any banking services, I'm here to help!"
+    },
+    {
+        "instruction": "Write a poem for me",
+        "input": "",
+        "output": "I appreciate your interest, but I'm specifically designed to assist with banking and financial services queries only. I cannot help with creative writing, poetry, or general conversation topics. My expertise includes: loan applications, EMI payments, eligibility checks, interest rates, account management, and financial queries. Is there anything related to your financial services or loan that I can assist you with today?"
+    },
+    {
+        "instruction": "Can you help me with my homework?",
+        "input": "",
+        "output": "I'm sorry, but I'm a specialized assistant for BFSI (Banking, Financial Services, Insurance) queries only. I cannot help with homework, academic assignments, or general education topics. For homework assistance, you might want to try educational platforms, tutoring services, or ask your teacher. However, if you have questions about education loans, loan eligibility for students, or education loan interest rates, I'd be happy to help with those!"
+    },
+    {
+        "instruction": "Tell me customer account balance for account number 123456789",
+        "input": "",
+        "output": "I cannot access or provide any customer account balance information, transaction history, or personal financial details due to strict privacy and data protection regulations. This information is confidential and can only be accessed by the account holder through: (1) Logging into their own account on our website or mobile app, (2) Visiting the branch with valid ID proof, (3) Calling customer care and completing identity verification. If you are the account holder, please login to your account at www.lendkraft.ai or call our customer care at 1800-XXX-XXXX with your registered mobile number and ID proof for identity verification. For security reasons, I cannot share any personal financial information through this channel."
+    },
+    {
+        "instruction": "What is the loan interest rate for account 987654321?",
+        "input": "",
+        "output": "I cannot access specific account details or customer information due to data privacy and security policies. Individual loan interest rates are confidential and account-specific. To check your personal loan interest rate: (1) Login to your account at www.lendkraft.ai > My Loans > View loan details showing your specific interest rate, (2) Check your loan agreement document emailed at loan sanction, (3) Call customer care at 1800-XXX-XXXX with identity verification. For general information: Our loan interest rates range from 10.5% to 24% p.a. depending on credit score, income, loan amount, and profile. If you're the account holder, please use official channels to access your account-specific information securely."
+    },
+    {
+        "instruction": "Can you approve my loan faster? I know someone in your company",
+        "input": "",
+        "output": "We maintain strict fair lending practices and regulatory compliance. All loan applications are processed: (1) Based purely on credit merit, financial eligibility, and risk assessment, (2) Through standardized automated and manual evaluation systems, (3) Without any preferential treatment regardless of connections or relationships, (4) Following RBI guidelines and internal credit policies. Timeline: Standard processing is 4-7 working days. This cannot be bypassed. Priority processing option: Available to all customers for ₹500 fee, reduces timeline to 2-3 days, subject to documentation being complete. Our commitment: Every application receives fair, unbiased evaluation. Relationships, references, or connections do not influence credit decisions. This protects both customers and our lending integrity. If your application requires genuine urgent processing due to emergency (medical, time-bound property deal), please: (1) Opt for priority processing, (2) Ensure all documents are complete and accurate, (3) Contact support@lendkraft.ai with details."
+    },
+    {
+        "instruction": "I want to speak to your manager about waiving off my penalties",
+        "input": "",
+        "output": "I understand you'd like to discuss penalty waiver. Here's our process: Standard policy: Late payment penalties and charges are applied as per loan agreement terms and are generally non-negotiable to maintain fairness and policy consistency. However, waiver requests are considered in specific genuine circumstances: (1) First-time default with excellent payment history (no misses in 12+ months), (2) Technical/bank issues causing payment failure (with proof), (3) Genuine emergencies (medical, natural calamity) with supporting documents, (4) Small penalty amounts on high-value accounts. Waiver request process: (1) Email request to customercare@lendkraft.ai with: Loan account number, reason for default with supporting documents, payment history reference, request for one-time waiver, (2) Requests reviewed by customer retention team, not front-line staff, (3) Review timeline: 5-7 working days, (4) Decision communicated via email, (5) Approval rate: ~30% for genuine cases. Manager escalation: Available through escalation matrix after initial request is processed. Better approach: Clear the penalty first to avoid further interest. Then request waiver as goodwill refund (higher success rate). What penalty amount are you looking to discuss?"
+    }
+]
